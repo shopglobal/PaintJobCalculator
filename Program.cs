@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Mark Evans
+// Valencia College
+using System;
 
 namespace PaintJobCalculator
 {
